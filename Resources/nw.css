@@ -6,9 +6,9 @@
 
 .uiimg {
     background-image: url('../images/UI.jpg');
-    height: 600px;
-    width: 900px;
-    background-size: 900px;
+    height: 900px;
+    width: 1200px;
+    background-size: 1200px;
     background-repeat: no-repeat;
 }
 

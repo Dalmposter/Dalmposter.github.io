@@ -6,11 +6,17 @@
 
 .uiimg {
     background-image: url('../images/UI.jpg');
-    height: 400px;
+    height: 600px;
+    width: 900px;
+    background-size: 900px;
+    background-repeat: no-repeat;
 }
 
 /* Second image (Portfolio) */
 .markimg {
     background-image: url("../images/mark.png");
     height: 400px;
+    width: 600px;
+    background-size: 600px;
+    background-repeat: no-repeat;
 }

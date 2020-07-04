@@ -1,4 +1,4 @@
-div
+.background
 {
     background-color: rgb(32, 32, 32);
     color: whitesmoke;
@@ -17,6 +17,6 @@ div
     background-image: url("../images/mark.png");
     height: 400px;
     width: 600px;
-    background-size: 600px;
+    background-size: 450px;
     background-repeat: no-repeat;
 }

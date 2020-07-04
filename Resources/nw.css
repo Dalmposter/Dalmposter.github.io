@@ -3,3 +3,14 @@
     background-color: rgb(32, 32, 32);
     color: whitesmoke;
 }
+
+.uiimg {
+    background-image: url('UI.jpg');
+    height: 400px;
+}
+
+/* Second image (Portfolio) */
+.markimg {
+    background-image: url("mark.png");
+    height: 400px;
+}

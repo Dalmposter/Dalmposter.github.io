@@ -5,12 +5,12 @@
 }
 
 .uiimg {
-    background-image: url('UI.jpg');
+    background-image: url('images/UI.jpg');
     height: 400px;
 }
 
 /* Second image (Portfolio) */
 .markimg {
-    background-image: url("mark.png");
+    background-image: url("images/mark.png");
     height: 400px;
 }

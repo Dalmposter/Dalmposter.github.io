@@ -15,7 +15,7 @@
 /* Second image (Portfolio) */
 .markimg {
     background-image: url("../images/mark.png");
-    height: 400px;
+    height: 250px;
     width: 600px;
     background-size: 450px;
     background-repeat: no-repeat;
